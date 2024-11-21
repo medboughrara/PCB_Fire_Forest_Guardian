@@ -1,2 +1,2 @@
 # SSCS
-<img src="relative/path/to/image.jpg" alt="Alt text" width="500">
+<img src="relative/path/to/cebtral-rota.png" alt="Alt text" width="500">
