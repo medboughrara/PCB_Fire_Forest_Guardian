@@ -1,8 +1,8 @@
 # SSCS
-# CENTRAL PCB
+***CENTRAL PCB***
 <img src="central_3d.png" alt="Alt text" width="500">
-## SENSOR PCB
+***SENSOR PCB***
 <img src="sensor.png" alt="Alt text" width="500">
-### DASHBOARD PCB
+***DASHBOARD PCB***
 <img src="3d dashboa.png" alt="Alt text" width="500">
 
