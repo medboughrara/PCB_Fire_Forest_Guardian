@@ -8,7 +8,7 @@
 ***SENSOR 3D***
 ><img src="sensor.png" alt="Alt text" width="500">
 ***DASHBOARD SCHEMATIC***
-><img src="schemaa_dash.png" alt="Alt text" width="700">
+><img src="schemaaa_dash.png" alt="Alt text" width="700">
 ***DASHBOARD 3D***
 ><img src="3d dashboa.png" alt="Alt text" width="500">
 
