@@ -1,6 +1,6 @@
 # SSCS
 ***CENTRAL SHEMATIC***
-><img src="central_shematic.png" alt="Alt text" width="500">
+><img src="certral_shematic.png" alt="Alt text" width="500">
 ***CENTRAL 3D***
 ><img src="central_3d.png" alt="Alt text" width="500">
 ***SENSOR SHEMATIC***
